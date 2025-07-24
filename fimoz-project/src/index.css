@@ -42,3 +42,6 @@ code {
   --font-size-title: 1.6rem;
   --font-size-loading: 1.8rem;
 }
+.toast {
+  display: none;
+}

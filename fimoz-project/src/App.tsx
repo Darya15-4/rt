@@ -1,6 +1,7 @@
 import React from 'react';
 import Cards from './components/Card/Cards';
 import Users from './components/User/Users'
+import Gallery from './components/Gallery/Gallery'
 function App() {
   return (
     <>
@@ -9,6 +10,7 @@ function App() {
       <main>
       <Cards/>
       <Users/>
+      <Gallery/>
       </main>
       <footer>
       </footer>

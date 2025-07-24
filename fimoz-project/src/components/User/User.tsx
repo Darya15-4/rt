@@ -1,5 +1,7 @@
 import React from 'react';
 import {TUser} from '../types'
+import './User.css'
+
 
 const User: React.FC<TUser> = 
 ({id, name, username, email, address, phone, website, company}) => {

@@ -30,3 +30,11 @@ export type TCard = {
     name: string;
     image: string;
 }
+
+
+export type TImage = {
+    url: string;
+    alt: string;
+    description: string;
+    
+}
