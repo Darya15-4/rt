@@ -32,6 +32,7 @@ export type TCard = {
 }
 
 
+
 export type TImage = {
     url: string;
     alt: string;

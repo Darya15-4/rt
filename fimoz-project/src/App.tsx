@@ -2,6 +2,7 @@ import React from 'react';
 import Cards from './components/Card/Cards';
 import Users from './components/User/Users'
 import Gallery from './components/Gallery/Gallery'
+import TempForm from './components/Temp/TempForm'
 function App() {
   return (
     <>
@@ -11,6 +12,7 @@ function App() {
       <Cards/>
       <Users/>
       <Gallery/>
+      <TempForm/>
       </main>
       <footer>
       </footer>
