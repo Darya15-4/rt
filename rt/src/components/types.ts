@@ -37,5 +37,10 @@ export type TImage = {
     url: string;
     alt: string;
     description: string;
-    
+}
+
+
+export type ThemeContextType = {
+  theme: "light" | "dark";
+  toggleTheme: () => void;
 }

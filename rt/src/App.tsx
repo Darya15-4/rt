@@ -6,7 +6,7 @@ import TempForm from './components/Temp/TempForm'
 function App() {
   return (
     <>
-      <header className="App-header">
+      <header>
       </header>
       <main>
       <Cards/>
