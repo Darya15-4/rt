@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useState } from 'react'
+/*import React, { createContext, useContext, useState } from 'react'
 import { ThemeContextType } from '../components/types'
 
 
@@ -26,4 +26,4 @@ export const useTheme = () => {
   const context = useContext(ThemeContext);
   if (!context) throw new Error("useTheme must be used inside ThemeProvider");
   return context;
-};
+}; */

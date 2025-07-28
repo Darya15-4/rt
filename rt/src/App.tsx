@@ -3,6 +3,7 @@ import Cards from './components/Card/Cards';
 import Users from './components/User/Users'
 import Gallery from './components/Gallery/Gallery'
 import TempForm from './components/Temp/TempForm'
+import Prikol from './components/Prikol/Prikol'
 function App() {
   return (
     <>
@@ -13,6 +14,7 @@ function App() {
       <Users/>
       <Gallery/>
       <TempForm/>
+      <Prikol/>
       </main>
       <footer>
       </footer>
